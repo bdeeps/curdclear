@@ -1,0 +1,1027 @@
+{
+  "title": "The history of curd",
+  "tagline": "Nearly 9,000 years from milk left in a clay pot to the bacteria in every cup of dahi.",
+  "intro": "Nobody invented curd. Wherever people kept milk in a warm place, tiny bacteria turned it sour and thick, and people liked it. India has set dahi for thousands of years, and Central Asia gave the world the word yoghurt. Then scientists found the acid, the microbes and the milk protein behind the change, and dairies learned to make the same curd every time.",
+  "eras": [
+    {
+      "id": "pots",
+      "name": "Milk meets clay",
+      "from": -7000,
+      "to": -1500,
+      "color": "#c49bff",
+      "summary": "The first farmers milk their animals and store the milk in clay pots. Traces of milk fat in the clay tell us what they did with it."
+    },
+    {
+      "id": "texts",
+      "name": "Curd in words and worship",
+      "from": -1500,
+      "to": 1600,
+      "color": "#ffb547",
+      "summary": "Curd appears in Vedic hymns, Tamil poems, Ayurvedic texts and Roman books. Turkic peoples give it the name yoghurt."
+    },
+    {
+      "id": "microbes",
+      "name": "Finding the invisible workers",
+      "from": 1670,
+      "to": 1900,
+      "color": "#ff7a59",
+      "summary": "Microscopes reveal tiny living things. Chemists find lactic acid, and Pasteur and Lister show that bacteria make it."
+    },
+    {
+      "id": "lab",
+      "name": "From the lab to the shop",
+      "from": 1900,
+      "to": 1960,
+      "color": "#5ce1a9",
+      "summary": "The yoghurt bacteria get names, pH gets a scale and casein gets explained. Yoghurt becomes a branded food sold in pots."
+    },
+    {
+      "id": "india",
+      "name": "India's White Revolution",
+      "from": 1920,
+      "to": 2000,
+      "color": "#7aa2ff",
+      "summary": "Dairy science, farmer co-operatives and Operation Flood turn India into the world's largest producer of milk."
+    },
+    {
+      "id": "today",
+      "name": "Rules, cultures and pride",
+      "from": 2000,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Food standards define yoghurt and dahi, one health claim is tested, and local curds win protected names."
+    }
+  ],
+  "events": [
+    {
+      "year": -6500,
+      "date": "c. 7th millennium BCE",
+      "era": "pots",
+      "art": "flask",
+      "key": true,
+      "title": "Milk fat in the oldest pots",
+      "who": "Neolithic farmers",
+      "where": "North-western Anatolia (today Turkey)",
+      "country": "Turkey",
+      "text": "In 2008 a team led by Richard Evershed tested more than 2,200 ancient pots from the Near East and south-eastern Europe. Fats soaked into the clay showed that people were using milk by the seventh millennium BCE. Milking mattered most in north-western Anatolia, where cattle did well.",
+      "why": "It is the earliest direct evidence that people used milk, and milk left in a warm pot soon turns sour and thick.",
+      "box": "milk",
+      "sources": [
+        1,
+        2
+      ]
+    },
+    {
+      "year": -5200,
+      "date": "c. 5200 BCE (sixth millennium BCE)",
+      "era": "pots",
+      "art": "membrane",
+      "title": "Clay sieves for curds and whey",
+      "who": "Early farmers of Kuyavia",
+      "where": "Kuyavia, Poland",
+      "country": "Poland",
+      "text": "Archaeologists in Poland had long found bits of pottery full of small holes. In 2012 Mélanie Salque and colleagues at the University of Bristol found milk fat inside them. The pots were strainers, used about 7,000 years ago to separate solid curds from watery whey.",
+      "why": "It showed that early farmers already knew milk splits into curds and whey, the first step to cheese and paneer.",
+      "box": "whey",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": -2500,
+      "date": "c. 2500 BCE",
+      "era": "pots",
+      "art": "compass",
+      "key": true,
+      "title": "Dairy in the Indus valley",
+      "who": "People of the Indus Valley Civilisation",
+      "where": "Kotada Bhadli, Gujarat",
+      "country": "India",
+      "text": "Kalyan Sekhar Chakraborty and colleagues tested 59 pieces of pottery from Kotada Bhadli, a small Indus site in Gujarat. Twenty-two of them held traces of dairy fat. The milk came from cattle and water buffalo.",
+      "why": "Published in 2020, it is the earliest direct evidence of dairy processing in South Asia.",
+      "box": "milk",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": -1200,
+      "date": "c. 1500–1000 BCE (dates debated)",
+      "era": "texts",
+      "art": "flame",
+      "key": true,
+      "title": "Dadhi in the Vedas",
+      "who": "Composers of the Vedic hymns",
+      "where": "North-western Indian subcontinent",
+      "country": "India",
+      "text": "The Rigveda, the oldest Vedic text, is usually dated to around 1500–1000 BCE, though scholars debate the range. Its hymns speak of dadhi, curd, and of the sacred drink soma mixed with curd. Vedic texts also describe curdling milk by stirring in a little milk that has already soured.",
+      "why": "Adding a spoon of old curd to fresh milk is still how dahi is set at home.",
+      "box": "set",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": -500,
+      "date": "c. 500 BCE (as dated by K. T. Achaya)",
+      "era": "texts",
+      "art": "colour",
+      "title": "Shikharini, the first shrikhand",
+      "who": "Cooks of ancient India",
+      "where": "India",
+      "country": "India",
+      "text": "The food historian K. T. Achaya wrote that curd was hung in a muslin bag for a few hours to drain. Sugar and spices were then mixed into the thick mass to make shikharini, which he dates to about 500 BCE. It is the same sweet as today's shrikhand, and later cookbooks such as the Soopa Shastra of 1508 mention it too.",
+      "why": "Draining the whey out of curd gives a whole family of thick, creamy foods.",
+      "box": "cousins",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 77,
+      "date": "c. 77 CE",
+      "era": "texts",
+      "art": "quill",
+      "title": "A Roman is puzzled by thick sour milk",
+      "who": "Pliny the Elder",
+      "where": "Rome",
+      "country": "Italy",
+      "text": "In his Natural History, Pliny wrote that it was surprising that the 'barbarous nations' who lived on milk did not make cheese. Instead, he said, they thickened milk into a sour liquid with a pleasant taste, and made rich butter.",
+      "why": "It is one of the oldest written descriptions in Europe of something like yoghurt.",
+      "box": "gel",
+      "sources": [
+        12,
+        0
+      ]
+    },
+    {
+      "year": 100,
+      "date": "c. 300 BCE–300 CE",
+      "era": "texts",
+      "art": "road",
+      "title": "Milk and buttermilk in Sangam poems",
+      "who": "Cowherd families of the Tamil country",
+      "where": "South India",
+      "country": "India",
+      "text": "The Sangam poems of ancient Tamil describe the food of each kind of landscape. In the forest and pasture lands lived cattle herders. The Pattuppattu poems mention them selling milk and buttermilk, their speciality. In Tamil, curd rice is still called tayir sadam.",
+      "why": "It shows curd and buttermilk were everyday foods in South India about two thousand years ago.",
+      "box": "cousins",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 150,
+      "date": "c. 100 BCE–200 CE (dates debated)",
+      "era": "texts",
+      "art": "inkpot",
+      "title": "Curd in Ayurveda and in worship",
+      "who": "Compilers of the Charaka Samhita",
+      "where": "India",
+      "country": "India",
+      "text": "The Charaka Samhita, a founding text of Ayurveda, lists dadhi (curd) and takra (buttermilk) in its chapter on foods and drinks, and describes their qualities as that tradition understands them. In Hindu and Jain worship, curd is also one of the five ingredients of panchamrita, with milk, ghee, honey and sugar.",
+      "why": "It shows how deeply curd is woven into Indian tradition, in the kitchen, in old medical texts and in ritual.",
+      "box": "cousins",
+      "sources": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1073,
+      "date": "1072–1074",
+      "era": "texts",
+      "art": "word",
+      "key": true,
+      "title": "The word yoghurt is written down",
+      "who": "Mahmud al-Kashgari",
+      "where": "Baghdad",
+      "country": "Iraq",
+      "text": "Al-Kashgari, a scholar from Central Asia, wrote the first big dictionary of the Turkic languages, the Diwan Lughat al-Turk. It records the word yoghurt and how Turkic peoples used it. Another book of the same century, the Kutadgu Bilig, mentions it too.",
+      "why": "The English word yoghurt comes from Turkish, and this is where the word first appears in writing.",
+      "box": "cousins",
+      "sources": [
+        16,
+        0
+      ]
+    },
+    {
+      "year": 1542,
+      "date": "1542 (legend)",
+      "era": "texts",
+      "art": "horse",
+      "title": "The king and the yoghurt doctor",
+      "who": "King Francis I of France (story)",
+      "where": "France",
+      "country": "France",
+      "text": "A popular story says that King Francis I had a stomach illness that his doctors could not cure. His ally, the Ottoman sultan Suleiman the Magnificent, is said to have sent a healer who treated him with sheep's milk yoghurt. Treat it as a legend: it is told in food writing, not in solid historical records.",
+      "why": "True or not, the tale shows that yoghurt was still a strange, foreign food in western Europe.",
+      "sources": [
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1676,
+      "date": "1674–1676",
+      "era": "microbes",
+      "art": "lens",
+      "title": "Tiny living things in a drop of water",
+      "who": "Antonie van Leeuwenhoek",
+      "where": "Delft, Netherlands",
+      "country": "Netherlands",
+      "text": "Leeuwenhoek, a cloth merchant, made small, powerful lenses. In 1674 he saw tiny creatures in water, and in 1676 he saw bacteria. He described them in letters to the Royal Society in London.",
+      "why": "Nobody could explain curd until people knew that living things too small to see exist.",
+      "box": "bacteria",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1780,
+      "date": "1780",
+      "era": "microbes",
+      "art": "molecule",
+      "key": true,
+      "title": "The acid in sour milk",
+      "who": "Carl Wilhelm Scheele",
+      "where": "Köping, Sweden",
+      "country": "Sweden",
+      "text": "Scheele, a Swedish chemist who ran a pharmacy, separated a new acid from sour milk and wrote it up in a paper on milk and its acid. It was later named lactic acid, from the Latin word for milk. In 1808 Jöns Jacob Berzelius found the same acid in muscles.",
+      "why": "Lactic acid is what makes curd sour and what makes milk set.",
+      "box": "bacteria",
+      "sources": [
+        20,
+        21
+      ]
+    },
+    {
+      "year": 1857,
+      "date": "1857",
+      "era": "microbes",
+      "art": "burner",
+      "key": true,
+      "title": "Souring is the work of living microbes",
+      "who": "Louis Pasteur",
+      "where": "Lille, France",
+      "country": "France",
+      "text": "Most chemists of the time thought fermentation was a purely chemical change. Pasteur studied sour milk and showed that lactic acid is made by tiny living organisms as they grow. He described this in 1857 while working at the University of Lille.",
+      "why": "It turned the souring of milk from a mystery into biology, and opened the way to choosing which microbes to use.",
+      "box": "bacteria",
+      "sources": [
+        22,
+        20
+      ]
+    },
+    {
+      "year": 1878,
+      "date": "1877–1878",
+      "era": "microbes",
+      "art": "waterdrop",
+      "title": "One kind of bacterium, grown alone",
+      "who": "Joseph Lister",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Lister, the surgeon famous for antiseptics, diluted sour milk again and again until a drop held just one bacterium. From it he grew a pure culture of what he called Bacterium lactis, and showed that it alone could sour milk. He presented the work in December 1877 and it was printed in 1878.",
+      "why": "It is regarded as the first pure culture of any bacterium, and it used the microbe that sours milk.",
+      "box": "bacteria",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1905,
+      "date": "1905",
+      "era": "lab",
+      "art": "cell",
+      "key": true,
+      "title": "The yoghurt bacillus",
+      "who": "Stamen Grigorov",
+      "where": "Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "Grigorov, a 27-year-old Bulgarian medical student, studied yoghurt from home in Professor Léon Massol's laboratory in Geneva. He found the rod-shaped bacterium that turns milk into yoghurt and named it Bacillus bulgaricus. Today it is called Lactobacillus delbrueckii subspecies bulgaricus.",
+      "why": "For the first time, a named microbe was linked to yoghurt, and it is still one of the two main yoghurt bacteria.",
+      "box": "bacteria",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 1907,
+      "date": "1907 (English edition 1908)",
+      "era": "lab",
+      "art": "person",
+      "title": "A Nobel winner praises sour milk",
+      "who": "Élie Metchnikoff",
+      "where": "Pasteur Institute, Paris, France",
+      "country": "France",
+      "text": "Metchnikoff, who shared the 1908 Nobel Prize for work on immunity, wrote The Prolongation of Life. He guessed that Bulgarian peasants lived long because they ate yoghurt, and he drank sour milk every day. His idea made yoghurt fashionable across Europe, but his claim that it lengthens life is not established science.",
+      "why": "A famous scientist's hunch, not proof, is what first sent yoghurt from villages into city shops.",
+      "sources": [
+        27,
+        0
+      ]
+    },
+    {
+      "year": 1909,
+      "date": "1909",
+      "era": "lab",
+      "art": "scales",
+      "title": "A scale for sourness: pH",
+      "who": "Søren Sørensen",
+      "where": "Carlsberg Laboratory, Copenhagen, Denmark",
+      "country": "Denmark",
+      "text": "Sørensen needed a simple way to say how acidic a liquid is, so he invented the pH scale. Fresh milk has a pH of about 6.6. Casein, the main milk protein, loses its electric charge at pH 4.6, and that is when milk sets into a gel.",
+      "why": "With pH, dairies could measure exactly when milk becomes curd instead of guessing by taste.",
+      "box": "gel",
+      "sources": [
+        28,
+        29
+      ]
+    },
+    {
+      "year": 1919,
+      "date": "1919",
+      "era": "lab",
+      "art": "thermometer",
+      "title": "Sorting the lactic acid bacteria",
+      "who": "Sigurd Orla-Jensen",
+      "where": "Copenhagen, Denmark",
+      "country": "Denmark",
+      "text": "The Danish microbiologist Orla-Jensen published a book called The Lactic Acid Bacteria. He sorted these microbes by their shape, by what they make from sugar and by the temperatures they grow at. His system became the basis of how they are classified.",
+      "why": "Knowing which bacteria like which temperature explains why dahi and yoghurt are set warm, but at different warmths.",
+      "box": "bacteria",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 1919,
+      "date": "1919",
+      "era": "lab",
+      "art": "window",
+      "key": true,
+      "title": "Danone begins in Barcelona",
+      "who": "Isaac Carasso",
+      "where": "Barcelona, Spain",
+      "country": "Spain",
+      "text": "Carasso, who had moved from Thessaloniki to Barcelona, started a small yoghurt business and named it Danone after his son Daniel. The little pots were sold in pharmacies at first, and later in dairy shops. His son Daniel took the brand to France in 1929.",
+      "why": "Yoghurt became a factory-made product with a brand name, not just something set at home.",
+      "box": "cousins",
+      "sources": [
+        31,
+        32
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "1923",
+      "era": "india",
+      "art": "building",
+      "title": "India's dairy research institute",
+      "who": "Imperial Institute for Animal Husbandry and Dairying",
+      "where": "Bangalore (Bengaluru)",
+      "country": "India",
+      "text": "A dairy institute was set up in Bangalore in 1923. It was renamed the Imperial Dairy Institute in 1936. In 1955 it moved to Karnal in Haryana and became the National Dairy Research Institute.",
+      "why": "It gave India its own centre for the science of milk, dahi and other dairy foods.",
+      "sources": [
+        35
+      ]
+    },
+    {
+      "year": 1946,
+      "date": "14 December 1946",
+      "era": "india",
+      "art": "share",
+      "key": true,
+      "title": "Farmers start a milk co-operative",
+      "who": "Tribhuvandas Patel and the farmers of Kaira",
+      "where": "Anand, Gujarat",
+      "country": "India",
+      "text": "Milk farmers in Kaira district were being cheated by traders. On the advice of Vallabhbhai Patel they formed their own co-operative, led by Tribhuvandas Patel. A young engineer, Verghese Kurien, joined in 1949, and the co-operative's brand was named Amul.",
+      "why": "Farmers owning their own dairy became the model for the whole country.",
+      "sources": [
+        36,
+        37
+      ]
+    },
+    {
+      "year": 1947,
+      "date": "1942–1947",
+      "era": "lab",
+      "art": "boat",
+      "title": "Fruit goes under the yoghurt",
+      "who": "Daniel Carasso",
+      "where": "The Bronx, New York, USA",
+      "country": "United States",
+      "text": "During the Second World War, Daniel Carasso left France for the United States and started Dannon in New York in 1942. Few Americans knew yoghurt then. In 1947 Dannon put sweet fruit at the bottom of the cup, and sales took off.",
+      "why": "Sweet, fruity yoghurt is how much of the world came to like a sour food.",
+      "box": "cousins",
+      "sources": [
+        31,
+        33
+      ]
+    },
+    {
+      "year": 1956,
+      "date": "1956",
+      "era": "lab",
+      "art": "molecule",
+      "title": "The protein that keeps milk from clumping",
+      "who": "David Waugh and Peter von Hippel",
+      "where": "Massachusetts Institute of Technology, USA",
+      "country": "United States",
+      "text": "Milk's casein floats in tiny balls called micelles. Waugh and von Hippel found a new casein, kappa-casein, and showed that it keeps the micelles stable. Later work showed it sits on the outside of each micelle.",
+      "why": "When acid or rennet knocks out that protection, the micelles join up, and that is the gel we call curd.",
+      "box": "gel",
+      "sources": [
+        34,
+        29
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "13 January 1970",
+      "era": "india",
+      "art": "tap",
+      "key": true,
+      "title": "Operation Flood",
+      "who": "National Dairy Development Board and Verghese Kurien",
+      "where": "Anand, Gujarat",
+      "country": "India",
+      "text": "The National Dairy Development Board launched Operation Flood to link village milk co-operatives to the big cities. It ran in three phases until 1996 and became the world's largest dairy development programme. Mother Dairy was set up in Delhi in 1974 as part of it.",
+      "why": "It is called the White Revolution, and it turned a country short of milk into one with milk to spare.",
+      "sources": [
+        38,
+        39,
+        37
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "1997–1998",
+      "era": "india",
+      "art": "mountain",
+      "title": "The world's biggest milk producer",
+      "who": "India's dairy farmers",
+      "where": "India",
+      "country": "India",
+      "text": "India passed the United States to become the largest milk producer in the world. Sources give the year as 1997 or 1998. India made 72.1 million tonnes of milk in 1997–98 and 75.4 million tonnes in 1998–99.",
+      "why": "More milk meant more dahi, lassi, chaas, paneer and ghee for more people.",
+      "box": "milk",
+      "sources": [
+        38,
+        6,
+        40,
+        41
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "1 June 2001",
+      "era": "today",
+      "art": "earth",
+      "title": "World Milk Day",
+      "who": "Food and Agriculture Organization of the United Nations",
+      "where": "Rome, Italy",
+      "country": "Italy",
+      "text": "The FAO chose 1 June as World Milk Day, because many countries already held a milk day around then. India also has its own National Milk Day on 26 November, the birthday of Verghese Kurien.",
+      "why": "A day each year reminds people how much of the world's food starts with milk.",
+      "sources": [
+        42,
+        37
+      ]
+    },
+    {
+      "year": 2003,
+      "date": "2003–2011",
+      "era": "today",
+      "art": "scroll",
+      "title": "Writing down what yoghurt and dahi are",
+      "who": "Codex Alimentarius and the Food Safety and Standards Authority of India",
+      "where": "Rome, Italy, and New Delhi, India",
+      "country": "Worldwide",
+      "text": "In 2003 the world food code, Codex, adopted a standard for fermented milks. It says yoghurt is made with two bacteria together, Streptococcus thermophilus and Lactobacillus delbrueckii subspecies bulgaricus. India's 2011 food standards define dahi as milk that has been pasteurised or boiled and then soured by harmless lactic acid bacteria.",
+      "why": "The rules show the real difference: yoghurt uses two fixed bacteria, while dahi can use a mix of local ones.",
+      "box": "cousins",
+      "sources": [
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "2010",
+      "era": "today",
+      "art": "intestine",
+      "title": "One tested claim about live cultures",
+      "who": "European Food Safety Authority",
+      "where": "Parma, Italy",
+      "country": "Italy",
+      "text": "Europe's food safety agency checks health claims on food labels. In 2010 its panel agreed that the live cultures in yoghurt improve the digestion of lactose, the sugar in milk, in people who digest it poorly. The yoghurt must contain plenty of live bacteria for this to hold.",
+      "why": "The bacteria that make curd also break down lactose, which is the same job they do in the pot.",
+      "box": "bacteria",
+      "sources": [
+        46,
+        0
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "18 October 2012",
+      "era": "today",
+      "art": "trophy",
+      "title": "Children pick a national microbe",
+      "who": "Schoolchildren of India",
+      "where": "India",
+      "country": "India",
+      "text": "Children visiting a science exhibition train, the Science Express Biodiversity Special, voted for a national microbe from a shortlist of eight. They chose Lactobacillus delbrueckii, the bacterium that turns milk into curd. The government announced the result on 18 October 2012.",
+      "why": "India is reported to be the only country with a national microbe, and it is a curd maker.",
+      "box": "bacteria",
+      "sources": [
+        47,
+        26
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "26 June 2023",
+      "era": "today",
+      "art": "plate",
+      "title": "Bogura's doi gets a protected name",
+      "who": "Curd makers of Sherpur, Bogura",
+      "where": "Bogura (Bogra), Bangladesh",
+      "country": "Bangladesh",
+      "text": "Bogurar doi is a famous sweet curd from Bogura district, set in clay pots. Its story is said to go back about 250 years to the Ghosh family of Sherpur. In June 2023 Bangladesh registered it as a geographical indication, so only curd from there can use the name.",
+      "why": "Like mishti doi in Bengal, it shows how one simple method became many local treasures.",
+      "box": "cousins",
+      "sources": [
+        48,
+        49,
+        50
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Direct evidence of people using milk",
+      "value": "7th millennium BCE",
+      "who": "Neolithic farmers, Anatolia"
+    },
+    {
+      "label": "Direct evidence of dairy processing in South Asia",
+      "value": "c. 2500 BCE",
+      "who": "Kotada Bhadli, Gujarat, India"
+    },
+    {
+      "label": "The word yoghurt in writing",
+      "value": "1072–1074",
+      "who": "Mahmud al-Kashgari, Baghdad"
+    },
+    {
+      "label": "Lactic acid isolated from sour milk",
+      "value": "1780",
+      "who": "Carl Wilhelm Scheele, Sweden"
+    },
+    {
+      "label": "Pure culture of a bacterium",
+      "value": "1877–1878",
+      "who": "Joseph Lister, England"
+    },
+    {
+      "label": "Yoghurt bacterium identified",
+      "value": "1905",
+      "who": "Stamen Grigorov, Bulgaria, working in Geneva"
+    },
+    {
+      "label": "The pH scale",
+      "value": "1909",
+      "who": "Søren Sørensen, Denmark"
+    },
+    {
+      "label": "National microbe",
+      "value": "2012",
+      "who": "Lactobacillus delbrueckii, India"
+    }
+  ],
+  "people": [
+    {
+      "name": "Mahmud al-Kashgari",
+      "life": "1005 – 1102",
+      "role": "Scholar of languages",
+      "from": "Central Asia (born in today's Kyrgyzstan)",
+      "note": "Wrote the first big dictionary of Turkic languages, which records the word yoghurt."
+    },
+    {
+      "name": "Antonie van Leeuwenhoek",
+      "life": "1632 – 1723",
+      "role": "Cloth merchant and microscope maker",
+      "from": "Netherlands",
+      "note": "The first person to see bacteria, through lenses he made himself."
+    },
+    {
+      "name": "Carl Wilhelm Scheele",
+      "life": "1742 – 1786",
+      "role": "Chemist",
+      "from": "Sweden",
+      "note": "Isolated lactic acid from sour milk in 1780."
+    },
+    {
+      "name": "Louis Pasteur",
+      "life": "1822 – 1895",
+      "role": "Chemist and microbiologist",
+      "from": "France",
+      "note": "Showed that living microbes, not chemistry alone, turn milk sour."
+    },
+    {
+      "name": "Joseph Lister",
+      "life": "1827 – 1912",
+      "role": "Surgeon",
+      "from": "England",
+      "note": "Grew the milk-souring bacterium on its own, the first pure culture of a bacterium."
+    },
+    {
+      "name": "Stamen Grigorov",
+      "life": "1878 – 1945",
+      "role": "Physician and microbiologist",
+      "from": "Bulgaria",
+      "note": "Identified the yoghurt bacillus in Geneva in 1905, aged 27."
+    },
+    {
+      "name": "Élie Metchnikoff",
+      "life": "1845 – 1916",
+      "role": "Zoologist and immunologist",
+      "from": "Russian Empire (born in today's Ukraine) and France",
+      "note": "Nobel laureate whose unproven idea about long life made sour milk famous."
+    },
+    {
+      "name": "Søren Sørensen",
+      "life": "1868 – 1939",
+      "role": "Chemist",
+      "from": "Denmark",
+      "note": "Invented the pH scale at the Carlsberg Laboratory in 1909."
+    },
+    {
+      "name": "Sigurd Orla-Jensen",
+      "life": "1870 – 1949",
+      "role": "Microbiologist",
+      "from": "Denmark",
+      "note": "His 1919 book set out how lactic acid bacteria are classified."
+    },
+    {
+      "name": "Isaac Carasso",
+      "life": "1874 – 1939",
+      "role": "Businessman",
+      "from": "Thessaloniki (Ottoman Empire, today Greece) and Spain",
+      "note": "Founded Danone in Barcelona in 1919 and named it after his son."
+    },
+    {
+      "name": "Verghese Kurien",
+      "life": "1921 – 2012",
+      "role": "Dairy engineer",
+      "from": "India",
+      "note": "Built up Amul and led Operation Flood; known as the Father of the White Revolution."
+    },
+    {
+      "name": "Mélanie Salque",
+      "life": "active 2010s",
+      "role": "Chemist and archaeologist",
+      "from": "University of Bristol, England",
+      "note": "As a PhD student, found milk fat in 7,000-year-old clay sieves from Poland."
+    }
+  ],
+  "series": [
+    {
+      "id": "milk",
+      "title": "Milk produced in India each year",
+      "unit": "million tonnes",
+      "log": false,
+      "after": "today",
+      "caption": "India's milk production barely moved until the 1970s, then grew about fourteen times over, from 17 million tonnes in 1950–51 to 239 million tonnes in 2023–24.",
+      "points": [
+        {
+          "year": 1951,
+          "value": 17.0,
+          "label": "1950–51: 17.0 million tonnes (NDDB, from government data)"
+        },
+        {
+          "year": 1961,
+          "value": 20.0,
+          "label": "1960–61: 20.0 million tonnes"
+        },
+        {
+          "year": 1969,
+          "value": 21.2,
+          "label": "1968–69: 21.2 million tonnes, just before Operation Flood"
+        },
+        {
+          "year": 1974,
+          "value": 23.2,
+          "label": "1973–74: 23.2 million tonnes"
+        },
+        {
+          "year": 1981,
+          "value": 31.6,
+          "label": "1980–81: 31.6 million tonnes"
+        },
+        {
+          "year": 1991,
+          "value": 53.9,
+          "label": "1990–91: 53.9 million tonnes"
+        },
+        {
+          "year": 2001,
+          "value": 80.6,
+          "label": "2000–01: 80.6 million tonnes"
+        },
+        {
+          "year": 2011,
+          "value": 121.8,
+          "label": "2010–11: 121.8 million tonnes"
+        },
+        {
+          "year": 2021,
+          "value": 210.0,
+          "label": "2020–21: 210.0 million tonnes"
+        },
+        {
+          "year": 2024,
+          "value": 239.3,
+          "label": "2023–24: 239.3 million tonnes (NDDB, Basic Animal Husbandry Statistics)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "In 2012 Indian schoolchildren voted for a national microbe, and they picked the bacterium that makes curd.",
+    "The word yoghurt comes from Turkish and was written down in a dictionary compiled in Baghdad in 1072–1074.",
+    "Danone is named after a boy: Danon was the nickname of the founder's son, Daniel Carasso, who lived to 103.",
+    "The first bacterium ever grown as a pure culture was the one that sours milk, by Joseph Lister in 1877–1878.",
+    "Panchamrita, an offering in Hindu and Jain worship, has five ingredients: milk, curd, ghee, honey and sugar."
+  ],
+  "sources": [
+    {
+      "title": "Yogurt",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yogurt"
+    },
+    {
+      "title": "Earliest date for milk use in the Near East and southeastern Europe linked to cattle herding (Evershed et al., Nature, 2008)",
+      "publisher": "PubMed, U.S. National Library of Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18690215/"
+    },
+    {
+      "title": "Earliest date for milk use in the Near East and southeastern Europe linked to cattle herding: abstract",
+      "publisher": "Hebrew University of Jerusalem research portal",
+      "url": "https://cris.huji.ac.il/en/publications/earliest-date-for-milk-use-in-the-near-east-and-southeastern-euro/"
+    },
+    {
+      "title": "Chemical analysis of sieve vessels reveals first cheese making in Northern Europe in the 6th millennium BC",
+      "publisher": "University of Bristol",
+      "url": "https://www.bristol.ac.uk/news/2012/9008.html"
+    },
+    {
+      "title": "U of T Mississauga researcher uncovers evidence of earliest known dairy production in India",
+      "publisher": "University of Toronto",
+      "url": "https://www.utoronto.ca/news/u-t-mississauga-researcher-uncovers-evidence-earliest-known-dairy-production-india"
+    },
+    {
+      "title": "People of Indus Valley produced earliest dairy products in the Subcontinent",
+      "publisher": "Down To Earth",
+      "url": "https://www.downtoearth.org.in/wildlife-biodiversity/global-eco-watch-people-of-indus-valley-produced-earliest-dairy-products-in-the-subcontinent-73950"
+    },
+    {
+      "title": "Dairy in India",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dairy_in_India"
+    },
+    {
+      "title": "Study on fermented milk products in ancient India: according to the Vedic literature",
+      "publisher": "KAKEN, Grants-in-Aid for Scientific Research Database, Japan",
+      "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21720016"
+    },
+    {
+      "title": "Shrikhand",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shrikhand"
+    },
+    {
+      "title": "K. T. Achaya, Indian Food: A Historical Companion (Oxford University Press, 1998): notes and excerpts",
+      "publisher": "IIT Kanpur book notes",
+      "url": "https://cse.iitk.ac.in/users/amit/books/achaya-1998-indian-food-historical.html"
+    },
+    {
+      "title": "Food in the Sangam Age: Portrayals in the Pathupattu",
+      "publisher": "Kerala Museum",
+      "url": "https://keralamuseum.org/article/food-culture-in-sangam-age-through-pathupattu"
+    },
+    {
+      "title": "Curd rice",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Curd_rice"
+    },
+    {
+      "title": "Yoghurt, barbarian delicacy for Roman palates",
+      "publisher": "Association NUNC, Geneva",
+      "url": "https://nunc.ch/en/yoghurt-barbarian-delicacy-for-roman-palates/"
+    },
+    {
+      "title": "Charaka Samhita",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charaka_Samhita"
+    },
+    {
+      "title": "Classification of Foods and Drinks: Charaka Samhita Sutrasthana 27",
+      "publisher": "Easy Ayurveda",
+      "url": "https://www.easyayurveda.com/classification-of-foods-and-drinks-charaka-sahmita-sutrasthana-27/"
+    },
+    {
+      "title": "Panchamrita",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Panchamrita"
+    },
+    {
+      "title": "Mahmud al-Kashgari",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mahmud_al-Kashgari"
+    },
+    {
+      "title": "A Yoghurt Tale",
+      "publisher": "Gourmed",
+      "url": "https://www.gourmed.net/?p=5517"
+    },
+    {
+      "title": "Les yaourts sont apparus en France suite aux maux d'estomac de François Ier",
+      "publisher": "Alliance Française de Sacramento",
+      "url": "https://www.afdesacramento.org/les-yaourts-sont-apparus-en-france-suite-aux-maux-destomac-de-franois-ier/"
+    },
+    {
+      "title": "Antonie van Leeuwenhoek",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek"
+    },
+    {
+      "title": "Lactic acid",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lactic_acid"
+    },
+    {
+      "title": "Carl Wilhelm Scheele",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carl_Wilhelm_Scheele"
+    },
+    {
+      "title": "Lactic acid fermentation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lactic_acid_fermentation"
+    },
+    {
+      "title": "Lister, On the lactic fermentation and its bearings on pathology (1877–1878)",
+      "publisher": "Jeremy Norman's HistoryofMedicine.com",
+      "url": "https://www.historyofmedicine.com/id/3115"
+    },
+    {
+      "title": "Lactococcus lactis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lactococcus_lactis"
+    },
+    {
+      "title": "Stamen Grigorov",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stamen_Grigorov"
+    },
+    {
+      "title": "Lactobacillus delbrueckii subsp. bulgaricus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lactobacillus_delbrueckii_subsp._bulgaricus"
+    },
+    {
+      "title": "Élie Metchnikoff",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/%C3%89lie_Metchnikoff"
+    },
+    {
+      "title": "pH",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/PH"
+    },
+    {
+      "title": "Casein",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Casein"
+    },
+    {
+      "title": "Streptococcus cremoris Orla-Jensen 1919: effective publication 'The lactic acid bacteria', Høst, Copenhagen",
+      "publisher": "LPSN, Leibniz Institute DSMZ",
+      "url": "https://lpsn.dsmz.de/species/streptococcus-cremoris"
+    },
+    {
+      "title": "Danone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Danone"
+    },
+    {
+      "title": "Isaac Carasso",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Isaac_Carasso"
+    },
+    {
+      "title": "Dannon Yogurt's fruity history in the Bronx",
+      "publisher": "6sqft",
+      "url": "https://www.6sqft.com/dannon-yogurts-fruity-history-in-the-bronx/"
+    },
+    {
+      "title": "Waugh and von Hippel, κ-Casein and the stabilization of casein micelles, Journal of the American Chemical Society 78, 4576–4582 (1956)",
+      "publisher": "American Chemical Society",
+      "url": "https://doi.org/10.1021/ja01599a017"
+    },
+    {
+      "title": "National Dairy Research Institute",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Dairy_Research_Institute"
+    },
+    {
+      "title": "Amul",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amul"
+    },
+    {
+      "title": "Verghese Kurien",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Verghese_Kurien"
+    },
+    {
+      "title": "White Revolution (Operation Flood)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Flood"
+    },
+    {
+      "title": "Mother Dairy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mother_Dairy"
+    },
+    {
+      "title": "Milk production and per capita availability of milk in India, 1950-51 to 2015-16",
+      "publisher": "National Dairy Development Board",
+      "url": "https://www.nddb.coop/sites/default/files/Milk-prod_PCA.pdf"
+    },
+    {
+      "title": "Milk Production in India",
+      "publisher": "National Dairy Development Board",
+      "url": "https://www.nddb.coop/information/stats/milkprodindia"
+    },
+    {
+      "title": "World Milk Day",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/World_Milk_Day"
+    },
+    {
+      "title": "Codex Standard for Fermented Milks (CODEX STAN 243-2003)",
+      "publisher": "Codex Alimentarius, FAO and WHO",
+      "url": "https://www.fao.org/input/download/standards/400/CXS_243e.pdf"
+    },
+    {
+      "title": "Food Safety and Standards Authority of India",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Food_Safety_and_Standards_Authority_of_India"
+    },
+    {
+      "title": "Food Safety and Standards (Food Products Standards and Food Additives) Regulations, 2011: compendium",
+      "publisher": "Food Safety and Standards Authority of India",
+      "url": "https://www.fssai.gov.in/upload/uploadfiles/files/Compendium_Food_Additives_Regulations_26_03_2021.pdf"
+    },
+    {
+      "title": "Scientific Opinion on the substantiation of health claims related to live yoghurt cultures and improved lactose digestion (EFSA Journal 2010;8(10):1763)",
+      "publisher": "European Food Safety Authority",
+      "url": "https://www.efsa.europa.eu/en/efsajournal/pub/1763"
+    },
+    {
+      "title": "How children picked Lactobacillus delbrueckii as India's national microbe",
+      "publisher": "Scroll.in",
+      "url": "https://scroll.in/article/1082463/for-young-readers-how-children-picked-lactobacillus-delbrueckii-as-indias-national-microbe"
+    },
+    {
+      "title": "Bogurar doi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bogurar_doi"
+    },
+    {
+      "title": "GI tag drives growth of Bogura yogurt industry",
+      "publisher": "The Financial Express (Bangladesh)",
+      "url": "https://thefinancialexpress.com.bd/national/gi-tag-drives-growth-of-bogura-yogurt-industry"
+    },
+    {
+      "title": "Mishti doi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mishti_doi"
+    }
+  ]
+}

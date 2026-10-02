@@ -1,0 +1,107 @@
+{
+  "slug": "curdclear",
+  "box": 113,
+  "date": "2026-10-03",
+  "title": "CurdClear",
+  "question": "How is curd made?",
+  "hook": "A spoon of old curd turns a pot of warm milk solid by morning, and nothing was added but bacteria. Zoom into milk, watch them turn milk sugar into acid, see the proteins link up at pH 4.6, then set your own dahi on a winter night and find out why it needs a blanket.",
+  "thumbText": "HOW CURD IS MADE",
+  "field": "chemistry",
+  "minutes": 15,
+  "tags": [
+    "curd",
+    "dahi",
+    "yoghurt",
+    "milk",
+    "fermentation",
+    "lactic acid bacteria",
+    "casein",
+    "pH",
+    "paneer",
+    "food science",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Milk is water with things floating in it",
+      "text": "Cow milk is about 87% water. Lactose, minerals and whey proteins are dissolved in it, fat floats as droplets a few thousandths of a millimetre wide, and casein protein hangs in balls called micelles, about 150 nanometres across. Each micelle has a coat of negatively charged hairs, so micelles push each other away and milk stays liquid."
+    },
+    {
+      "title": "A spoon of jaman is a spoon of bacteria",
+      "text": "Old curd carries around a hundred million live lactic acid bacteria in every gram. In warm milk they eat lactose and give out lactic acid, and at their best they double about every half hour. Cold slows them almost to a stop and heat above about 50 °C kills them."
+    },
+    {
+      "title": "At pH 4.6 the milk sets",
+      "text": "The acid pulls the pH down from about 6.7. Hydrogen ions cancel the charge on the micelles, and near pH 4.6, casein's isoelectric point, the micelles stick together into a network. The network traps all the water and fat, so the liquid becomes a soft solid, a gel. Nothing is removed."
+    },
+    {
+      "title": "Warmth and time decide the pot",
+      "text": "Lukewarm milk at about 40 °C sets in roughly five to seven hours. A bare pot on a cold night cools in a couple of hours and may never set, which is why Indian homes wrap it or tuck it into a casserole. Boiling the milk first clears out rival microbes and makes the gel about twenty times stiffer."
+    },
+    {
+      "title": "Whey and sourness have causes",
+      "text": "The greenish water on curd is whey, squeezed out as the protein network tightens. Leaving the pot warm for too long, setting it too hot, or shaking it while it sets all make it worse. Sourness is simply more lactic acid, and a fridge nearly stops the bacteria that make it."
+    },
+    {
+      "title": "One trick, many foods",
+      "text": "Yoghurt is curd made with two named bacteria at about 42 °C. Paneer uses acid in hot milk and no bacteria. Cheese uses rennet, an enzyme that cuts the hairs off the micelles. From dahi itself come lassi, chaas, shrikhand and mishti doi."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Casein micelle",
+      "def": "A ball of casein protein and calcium phosphate about 150 nanometres across. Milk holds around a hundred trillion in every millilitre."
+    },
+    {
+      "term": "Lactose",
+      "def": "Milk sugar, about 4.8% of milk. Lactic acid bacteria ferment part of it into lactic acid."
+    },
+    {
+      "term": "Lactic acid bacteria",
+      "def": "Harmless bacteria, such as Lactococcus, Streptococcus thermophilus and Lactobacillus, that turn sugars into lactic acid."
+    },
+    {
+      "term": "Jaman (starter)",
+      "def": "A spoon of old curd stirred into warm milk. Its live bacteria make the next batch."
+    },
+    {
+      "term": "pH",
+      "def": "A scale of acidity. Fresh milk is about 6.7 and set curd about 4.6. Each unit down means ten times more hydrogen ions."
+    },
+    {
+      "term": "Isoelectric point",
+      "def": "The pH at which a protein has no net charge. For casein it is 4.6, and there the micelles stick together."
+    },
+    {
+      "term": "Gel",
+      "def": "A soft solid made of a thin network that traps a lot of liquid. Curd is a gel of casein holding water and fat."
+    },
+    {
+      "term": "Whey and syneresis",
+      "def": "Whey is the watery part of milk. Syneresis is a gel shrinking and squeezing whey out."
+    },
+    {
+      "term": "Rennet",
+      "def": "Enzymes that clot milk for cheese by cutting the kappa-casein hairs off the micelles, with no acid needed."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "curdclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
